@@ -1,0 +1,16 @@
+:root {
+  /* A modifier */
+  --font-family: "Muli", sans-serif;
+  --font-family2: "Open Sans", sans-serif;
+  --light: #00c3ff;
+  --primary: #ed3833;
+  --dark: #000000;
+  --text: #333;
+  --background: #fafafa;
+  --graysalle: #dfd9c5;
+  /* text hint */
+  --hint: #999;
+  --border: #ddd;
+  /* rajout */
+  --btn-light: #222;
+  --background2: #eeeeee; }
